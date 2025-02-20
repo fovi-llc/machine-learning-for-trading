@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+.vscode/
+12_gradient_boosting_machines/models/
+12_gradient_boosting_machines/results/
+data/nasdaq100/
